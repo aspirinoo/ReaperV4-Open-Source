@@ -1,17 +1,27 @@
-# ReaperV4 - OpenSource
-
-### Famous Open-Source Anti-Cheat for FiveM
+<h1 align="center">RV4 - AntiCheat for FiveM</h1>
 
 <p align="center">
-  <img src="https://reaperac.com/images/reaperLogo.png" width="250"/>
+  Open-Source Anti-Cheat System for FiveM Servers
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FiveM-Compatible-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge">
 </p>
 
 ---
 
-ReaperV4 is a famous open-source anti-cheat system for FiveM.
+## About
 
-It is widely known in the FiveM community for protecting servers against cheats, exploits, and malicious event abuse.
+RV4 is an open-source anti-cheat system developed specifically for FiveM servers.
 
-This repository contains the open-source version of ReaperV4.
+It is designed to protect servers against:
 
----
+- Cheat menus  
+- Lua injectors  
+- Event abuse  
+- Exploits  
+- Unauthorized resource manipulation  
+- Suspicious player activity  
+
+This repository contains the open-source version of RV4.
